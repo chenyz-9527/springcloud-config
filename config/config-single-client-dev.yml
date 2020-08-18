@@ -2,4 +2,4 @@ data:
   env: localhost-dev-chenyz
   user:
     username: chenyz-dev
-    password: password-dev
+    password: cpassword-dev
